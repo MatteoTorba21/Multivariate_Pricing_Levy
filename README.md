@@ -1,2 +1,1 @@
-# Multivariate_Pricing_Levy
-Financial Engineering Final Project
+# gitFE_FINAL
